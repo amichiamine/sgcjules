@@ -1,0 +1,7 @@
+[
+    {
+        "path": "/",
+        "method": "GET",
+        "handler": "App\\Views\\Home\\HomeView"
+    }
+]
